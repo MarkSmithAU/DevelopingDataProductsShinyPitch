@@ -12,7 +12,7 @@ knit        : slidify::knit2slides
 ---
 
 # Motivation
-Visitors to a country have a huge beneficial impact on the countires they visit.
+Visitors to a country have a huge beneficial impact on the countries they visit.
 
 Gaining a better understanding of the following is important:
 * Who is visiting; 
@@ -67,4 +67,4 @@ The following plot gives a comparison of the number of points of data when using
 
 ![plot of chunk plot](assets/fig/plot-1.png)
 
-Thanks for your time :)
+The maximum number of points was 19198.  Thanks for your time :)
